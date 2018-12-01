@@ -16,11 +16,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
-    private void MethodUpdate(){
 
-        Toast.makeText(this, "Git Demo3", Toast.LENGTH_SHORT).show();
-
-
-    }
 
 }
